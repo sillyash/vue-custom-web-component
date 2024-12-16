@@ -2,7 +2,7 @@
 
 This project demonstrates how to compile Vue Single-File Components (SFCs) into custom web components with styles injected into the shadow root.
 
-**See results [here](https://sillyash.github.io/vus-custom-web-component/) and look at the [source code](./index.html) !**
+**See results [here](https://sillyash.github.io/vue-custom-web-component/) and look at the [source code](./index.html) !**
 
 ## Steps
 
